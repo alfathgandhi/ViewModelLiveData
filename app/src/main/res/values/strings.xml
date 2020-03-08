@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Belajar Assesment 1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_ready_guess_the_word">Get Ready Guess the Word</string>
+    <string name="start">Start</string>
+    <string name="guess_this_word">Guess This Word</string>
+    <string name="skip">SKIP</string>
+    <string name="correct">Correct</string>
+    <string name="test">TEST</string>
+    <string name="play_again">Play Again</string>
+    <string name="score">Score:\u0020</string>
+    <string name="about">About</string>
+    <string name="quote">\"%s\"</string>
+    <string name="score_format">Score: %d</string> <!-- fungsi dari %d menangkap inputan numeric -->
+</resources>
